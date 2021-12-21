@@ -1,8 +1,9 @@
 ### Hi 👋
 
-- 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to github and become full-stack developer
+I know Html5 / CSS3 / Boostrap / Javascript
+
+- 🌱 I’m currently learning javascript / React / Node.js
+- 🥅 2022 Goals: become a full stack web developer
 
 ### Connect with me:
 
