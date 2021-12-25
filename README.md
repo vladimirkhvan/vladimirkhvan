@@ -3,7 +3,7 @@
 I know Html5 / CSS3 / Boostrap / Javascript
 
 - 🌱 I’m currently learning javascript / React / Node.js
-- 🥅 2022 Goals: become a full stack web developer
+- 🥅 2022 Goals: become a full stack web developer (MERN)
 
 ### Connect with me:
 
