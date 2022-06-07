@@ -1,13 +1,12 @@
-### Hi 👋
+### hi there.
 
-I know Html5 / CSS3 / Sass / Bootstrap / Javascript / React / React router
+Front-end developer
+Senior student at Inha University at Tashkent
 
-### Connect with me:
-
-[<img align="left" alt="khvangene | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]@Khvangene
-
-<br />
-
-</details>
-
-[instagram]: https://instagram.com/codeSTACKr
+### skills list
+Html5
+CSS3
+Sass
+Bootstrap
+Javascript
+React
