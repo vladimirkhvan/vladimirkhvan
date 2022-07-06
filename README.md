@@ -15,6 +15,5 @@ Senior student at Inha University at Tashkent
   <li>Sass</li>
   <li>Bootstrap</li>
   <li>CSS3</li>
-  <li>Bootstrap</li>
   <li>HTML5</li>
 </ul>
