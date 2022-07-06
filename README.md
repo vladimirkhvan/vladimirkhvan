@@ -6,6 +6,7 @@ Senior student at Inha University at Tashkent
 
 ### skills list.
 <ul>
+  <li>Typescript</li>
   <li>ReactJs</li>
   <li>Redux Toolkit</li>
   <li>React Router</li>
