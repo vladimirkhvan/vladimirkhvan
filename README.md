@@ -1,19 +1,4 @@
 ### hi there.
 
 I am Vladimir Khvan<br/>
-Front-end developer<br/>
-Senior student at Inha University at Tashkent
-
-### skills list.
-<ul>
-  <li>Typescript</li>
-  <li>ReactJs</li>
-  <li>Redux Toolkit</li>
-  <li>React Router</li>
-  <li>Axios</li>
-  <li>Javascript</li>
-  <li>Sass</li>
-  <li>Bootstrap</li>
-  <li>CSS3</li>
-  <li>HTML5</li>
-</ul>
+I'm an enthusiastic front-end developer, having spent 1.5 years crafting user-focused web apps. Lately, I've been drawn to delving into the entire software development process. I'm quick to pick up new skills and love diving into fresh technologies. I'm motivated by collaboration and keen to network with like-minded individuals.
